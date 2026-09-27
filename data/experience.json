@@ -1,0 +1,69 @@
+[
+  {
+  "role": "Independent AI & Causal Research Engineer",
+  "org": "Self-Directed Research",
+  "period": "August 2026 - Present",
+  "location": "Remote",
+  "bullets": [
+    "Architecting custom PyTorch frameworks (such as the Causal-Phenotype-Disentanglement repository) to research dual-latent architectures for Causal Representation Learning.",
+    "Investigating out-of-distribution generalization by mathematically separating invariant biological signatures from environmental confounders.",
+    "Designing interventional training pipelines and custom loss functions to mitigate spurious correlations and address phenotypic plasticity in cross-domain computer vision."
+  ],
+  "tags": [
+    "Causal Representation Learning",
+    "PyTorch",
+    "Cross-Domain Vision",
+    "Independent Research"
+  ]
+},
+  {
+    "role": "Project Management / Associate",
+    "org": "Vada Innovation",
+    "period": "December 2024 - August 2026",
+    "location": "London, UK • On-Site",
+    "bullets": [
+      "Accelerated cross-functional delivery cycles by 30% across multiple client initiatives by implementing structured Agile/Scrum workflows and standardizing technical sprint backlogs.",
+      "Spearheaded technical roadmaps and resource allocation for 4 simultaneous enterprise AI and analytics projects, aligning engineering milestones with senior stakeholder business objectives.",
+      "Established centralized model governance, risk management frameworks, and KPI-tracking dashboards to monitor delivery health, client adoption rates, and SLA compliance."
+    ],
+    "tags": [
+      "Agile Leadership",
+      "Sprint Planning",
+      "Stakeholder Management",
+      "Resource Allocation",
+      "MLOps Governance"
+    ]
+  },
+  {
+    "role": "AI Engineer",
+    "org": "Vada Innovation",
+    "period": "November 2023 - November 2024",
+    "location": "London, UK",
+    "bullets": [
+      "Engineered production-grade Retrieval-Augmented Generation (RAG) pipelines using LangChain, Chroma vector databases, and Hugging Face embeddings to automate internal enterprise document querying.",
+      "Optimized enterprise LLM inference pipelines by benchmarking open-source foundation models, refining prompt architectures, and designing chunking strategies to minimize token consumption while maintaining 95%+ context precision."
+    ],
+    "tags": [
+      "RAG Architecture",
+      "LangChain",
+      "Vector Databases",
+      "Prompt Engineering",
+      "LLM Evaluation"
+    ]
+  },
+  {
+    "role": "AI Engineer Intern",
+    "org": "AMCO IT Systems",
+    "period": "March 2022 - August 2022",
+    "location": "Lahore, Pakistan",
+    "bullets": [
+      "Developed exploratory data analysis (EDA) pipelines and baseline predictive models in Python using Pandas, Scikit-Learn, and Seaborn, automating manual reporting workflows and surfacing key dataset trends for senior engineers."
+    ],
+    "tags": [
+      "Python",
+      "Exploratory Data Analysis (EDA)",
+      "Scikit-Learn",
+      "Data Visualization"
+    ]
+  }
+]

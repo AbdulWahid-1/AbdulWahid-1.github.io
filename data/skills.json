@@ -1,0 +1,95 @@
+[
+  {
+    "category": "AI / ML",
+    "items": [
+      "Generative AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Causal Representation Learning",
+      "NLP",
+      "RAG",
+      "LLMs"
+    ]
+  },
+  {
+    "category": "FRAMEWORKS & LIBRARIES",
+    "items": [
+      "PyTorch",
+      "TensorFlow & Keras",
+      "LangChain",
+      "LlamaIndex",
+      "Hugging Face",
+      "YOLOv8",
+      "YOLOv9",
+      "OpenCV"
+    ]
+  },
+  {
+    "category": "AI SERVICES & APIS",
+    "items": [
+      "Groq API",
+      "Google AI Studio",
+      "OpenAI API",
+      "Claude API",
+      "Cohere",
+      "Roboflow"
+    ]
+  },
+  {
+    "category": "VECTOR DBS",
+    "items": [
+      "Qdrant",
+      "FAISS",
+      "Pinecone"
+    ]
+  },
+  {
+    "category": "DATA SCIENCE LIBRARIES",
+    "items": [
+      "Scikit-Learn",
+      "Pandas",
+      "NumPy",
+      "XGBoost",
+      "Seaborn",
+      "Matplotlib",
+      "Folium"
+    ]
+  },
+  {
+    "category": "SOFTWARE & DEV TOOLS",
+    "items": [
+      "Python",
+      "FastAPI",
+      "Streamlit",
+      "Chainlit",
+      "Docker",
+      "Git & GitHub",
+      "Jupyter Lab",
+      "Kibana"
+    ]
+  },
+  {
+    "category": "COLLABORATION & WORKSPACES",
+    "items": [
+      "Jira",
+      "Confluence",
+      "ClickUp",
+      "Microsoft Teams",
+      "Figma"
+    ]
+  },
+  {
+    "category": "PROJECT MANAGEMENT & LEADERSHIP",
+    "items": [
+      "Scrum Master",
+      "Agile & Scrum",
+      "Sprint Planning",
+      "Backlog Grooming",
+      "Cross-Functional Leadership",
+      "Stakeholder Management",
+      "Resource Allocation",
+      "MLOps Governance"
+    ]
+  }
+]

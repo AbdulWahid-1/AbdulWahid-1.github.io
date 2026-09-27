@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "🔎",
+    "category": "Generative AI",
+    "title": "Enterprise RAG Document Pipeline",
+    "client": "Vada Innovation",
+    "description": "Engineered a production-grade Retrieval-Augmented Generation system to automate internal enterprise document querying and reduce manual search overhead.",
+    "tags": ["LangChain", "ChromaDB", "Hugging Face", "Python"]
+  },
+  {
+    "icon": "⚡",
+    "category": "MLOps & Optimization",
+    "title": "LLM Token Inference Optimization",
+    "client": "Vada Innovation",
+    "description": "Benchmarked open-source foundation models and refined chunking architectures, minimizing token consumption while maintaining over 95% context precision.",
+    "tags": ["LLM Evaluation", "Prompt Engineering", "Pipeline Optimization"]
+  },
+  {
+    "icon": "📊",
+    "category": "AI Governance",
+    "title": "Centralized MLOps Risk Dashboard",
+    "client": "Vada Innovation",
+    "description": "Established comprehensive model governance frameworks and KPI-tracking dashboards to monitor delivery health, adoption rates, and SLA compliance for enterprise clients.",
+    "tags": ["Risk Management", "SLA Compliance", "Data Visualization"]
+  },
+  {
+    "icon": "🚀",
+    "category": "Technical Project Management",
+    "title": "Cross-Functional AI Delivery Framework",
+    "client": "Vada Innovation",
+    "description": "Standardized technical sprint backlogs and aligned engineering milestones with stakeholder objectives, accelerating delivery cycles by 30% across four simultaneous AI initiatives.",
+    "tags": ["Agile Leadership", "Sprint Planning", "Resource Allocation"]
+  },
+  {
+    "icon": "🎥",
+    "category": "Edge Computing",
+    "title": "NeuralDub Pro Autonomous Localization",
+    "client": "Independent Research",
+    "description": "Designed a low-latency edge computing paradigm to automate video localization and dubbing without relying on heavy cloud-based inference.",
+    "tags": ["Video Localization", "Deep Learning", "System Architecture"]
+  },
+  {
+    "icon": "📈",
+    "category": "Predictive Modeling",
+    "title": "Automated EDA & Baseline Analytics",
+    "client": "AMCO IT Systems",
+    "description": "Developed exploratory data analysis pipelines to replace manual reporting workflows, surfacing critical dataset trends for senior engineering teams.",
+    "tags": ["Pandas", "Scikit-Learn", "Seaborn", "Statistical Analysis"]
+  }
+]

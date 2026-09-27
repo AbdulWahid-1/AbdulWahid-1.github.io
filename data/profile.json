@@ -1,0 +1,28 @@
+{
+  "name": "Abdul Wahid.",
+  "availability": "Open for Opportunities",
+  "roles": ["Applied AI & Computer Vision Engineer/Researcher", "Project Manager"],
+  "tagline": "Based in Lahore, I combine technical project management with applied AI to build open-source computer vision software that helps researchers automate complex healthcare, agricultural, and facial stress diagnostics.",
+  "location": "Lahore, Pakistan",
+  "bio": "I'm an Applied AI and Computer Vision Engineer based in Lahore, passionate about turning complex machine learning research into practical tools for healthcare, agriculture, and digital media. As a hands-on developer and technical project manager, I build high-impact systems—from medical diagnostic pipelines and crop analysis models to live-call AI assistants that provide real-time intelligence. Holding an MSc in Artificial Intelligence from the University of Essex, I back my open-source portfolio with academic rigor, ensuring my work is well-documented and accessible via GitHub and ORCID",
+  "stats": [
+    { "value": "", "label": "Years Exp." },
+    { "value": "18", "label": "Projects" },
+    { "value": "0", "label": "Certificates" },
+    { "value": "8", "label": "Research & Publications (Preprints)" }
+  ],
+  "focusTags": [
+  "Causal Representation Learning (PhD Focus)",
+  "Edge AI & Systems Optimization",
+  "Cross-Domain Agricultural Vision",
+  "Applied Deep Learning"
+],
+  "email": "abdulwahidilyas4444@gmail.com",
+  "photo": "assets/img/profile.jpeg",
+  "githubUsername": "AbdulWahid-1",
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com/AbdulWahid-1" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/abdul-wahid-960837151" },
+    { "label": "ORCID", "url": "https://orcid.org/0000-0002-0740-4812" }
+  ]
+}

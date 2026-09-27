@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "🏸",
+    "title": "Badminton",
+    "description": "Fast-paced rallies keep me agile and sharply focused."
+  },
+  {
+    "icon": "💪",
+    "title": "Gym",
+    "description": "Consistent physical training builds daily discipline."
+  },
+  {
+    "icon": "🎨",
+    "title": "Sketching",
+    "description": "A creative outlet for visualizing ideas outside of code."
+  },
+  {
+    "icon": "🚴",
+    "title": "Cycling",
+    "description": "Exploring outdoors to clear the mind and stay active."
+  }
+]

@@ -1,0 +1,69 @@
+[
+  
+  {
+    "title": "Google Project Management Professional Certificate",
+    "category": "Project Management",
+    "image": "assets/certs/gpm.jpeg",
+    "link": "https://coursera.org/share/fec75744b60e1e3a93cbafa3ded57f94"
+  },
+  {
+    "title": "Data Visualization with Python - IBM",
+    "category": "Data Analysis",
+    "image": "assets/certs/DVP-IBM.jpg",
+    "link": "https://courses.cognitiveclass.ai/certificates/bbe54210c32b46fe873121f73fb9fa76"
+  },
+  {
+    "title": "Google Agile Essentials",
+    "category": ["Project Management","Product Management"],
+    "image": "assets/certs/GAE.jpg",
+    "link": "https://coursera.org/share/be329c7cb21513ff8d08f9ad074b5920"
+  },
+  {
+    "title": "Become a Product Manager...",
+    "category": "Product Management",
+    "image": "assets/certs/PMU1.jpg",
+    "link": "https://www.udemy.com/certificate/UC-d0db202c-a10d-427a-a658-e8883cfb8a36/"
+  },
+  {
+    "title": "Leading People and Teams- University of MICHIGAN",
+    "category": "Leadership",
+    "image": "assets/certs/ldt.jpg",
+    "link": "https://coursera.org/share/43911eaa2aa9784a8a79a66bd662d07f"
+  },
+  {
+    "title": "Agile with Atlassian Jira",
+    "category": ["Project Management","Product Management"],
+    "image": "assets/certs/awj-a.jpg",
+    "link": "https://coursera.org/share/508f40cde4de900efbe7235fc7371ac8"
+  },
+  {
+    "title": "Machine Learning with Python - IBM",
+    "category": "Machine Learning",
+    "image": "assets/certs/ML-IBM.jpg",
+    "link": "https://courses.cognitiveclass.ai/certificates/b4e25af4d03c4834aad74d47a7d42bf9"
+  },
+  {
+    "title": "Scrum Master",
+    "category": "Project Management",
+    "image": "assets/certs/sm.jpg",
+    "link": "https://coursera.org/share/f311ed98fa2791e7ef1b558c47ec4249"
+  },
+  {
+    "title": "Introduction to Jira - Atlassian",
+    "category": ["Project Management","Product Management"],
+    "image": "assets/certs/Ij-a.jpg",
+    "link": "https://coursera.org/share/0b41575603362cb402c9f27978dc38fb"
+  },
+  {
+    "title": "Kanban for Softtware Project Mangement",
+    "category": "Project Management",
+    "image": "assets/certs/kspm.jpg",
+    "link": "https://coursera.org/share/882ab20df14dc6812081246ae7b9ef2a"
+  },
+  {
+    "title": "Introduction to confluence - Atlassian",
+    "category": ["Project Management","Product Management"],
+    "image": "assets/certs/itc-a.jpg",
+    "link": "https://coursera.org/share/abd87079187220de84e43eefa7114050"
+  }
+]

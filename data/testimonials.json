@@ -1,0 +1,45 @@
+[
+  {
+    "quote": "Abdul showed exceptional academic rigor and an advanced grasp of complex machine learning concepts during his research initiatives.",
+    "initials": "MA",
+    "name": "Dr. M.Ahmad",
+    "title": "Professor of Machine Learning",
+    "location": "UMT"
+  },
+
+  {
+    "quote": "Abdul did an exceptional job helping us execute our enterprise RAG pipelines and MLOps workflows. He’s sharp, fast, and knows his tech.",
+    "initials": "SJ",
+    "name": "Steeve",
+    "title": "Engineering Manager @ Vada Innovation",
+    "location": "London"
+  },
+  {
+    "quote": "I worked closely with Abdul on our EDA and data pipeline projects. He has a great eye for detail and always delivered clean, reliable code.",
+    "initials": "AR",
+    "name": "Ali Raza",
+    "title": "Technical Lead @ AMCO IT Systems",
+    "location": "Lahore"
+  },
+  {
+    "quote": "Abdul is a dedicated engineer who always delivers robust computer vision and edge-AI solutions. Absolute pleasure to collaborate with.",
+    "initials": "US",
+    "name": "Mr. Usman",
+    "title": "AI/ML Engineer",
+    "location": "London"
+  },
+  {
+    "quote": "His ability to bridge theoretical AI with rigorous, working PyTorch implementations sets him apart as a brilliant researcher.",
+    "initials": "GM",
+    "name": "Dr. Ghulam Mustafa",
+    "title": "Senior Lecturer in  Science",
+    "location": "UMT"
+  },
+  {
+    "quote": "He brought fantastic technical depth and structured problem-solving to our computer vision sprint cycles.",
+    "initials": "TP",
+    "name": "Project Stakeholder",
+    "title": "Technical Project Manager",
+    "location": "London"
+  }
+]

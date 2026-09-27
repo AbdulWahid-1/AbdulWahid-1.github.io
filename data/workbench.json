@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Geospatial AI",
+    "title": "Agri-Boundary Multi-Spectral Extractor",
+    "description": "Custom 6-band U-Net segmenting field boundaries from raw Sentinel-2 satellite arrays.",
+    "tags": ["PyTorch", "U-Net", "Remote Sensing"]
+  },
+  {
+    "category": "Medical AI",
+    "title": "Skin Burn Severity Classifier",
+    "description": "EfficientNet-B3 triage tool classifying burn severity from medical imaging.",
+    "tags": ["PyTorch", "EfficientNet", "Computer Vision"]
+  },
+  {
+    "category": "Agricultural AI",
+    "title": "AgriVision Crop Pathology",
+    "description": "Edge-deployed YOLOv8 detecting and localizing 29 plant foliar diseases in real time.",
+    "tags": ["YOLOv8", "Edge Computing", "OpenCV"]
+  },
+  {
+    "category": "Environmental AI",
+    "title": "Real-Time Wildfire & Smoke Detection",
+    "description": "Dual-threshold YOLOv8 system detecting active flames and diffuse smoke plumes.",
+    "tags": ["YOLOv8", "Deep Learning", "PyTorch"]
+  },
+  {
+    "category": "Deep Learning & GANs",
+    "title": "Image Super-Resolution & Denoising",
+    "description": "PyTorch GAN restoring degraded photos via 4x super-resolution and denoising.",
+    "tags": ["GAN", "Computer Vision", "PyTorch"]
+  },
+  {
+    "category": "Computer Vision",
+    "title": "Agri-Pest Detection Pipeline",
+    "description": "YOLOv9-Compact pipeline identifying 102 insect species on edge hardware.",
+    "tags": ["YOLOv9", "Object Detection", "Data Augmentation"]
+  },
+  {
+    "category": "Audio & Video Localization",
+    "title": "NeuralDub Pro",
+    "description": "Edge pipeline using Whisper and PyTorch for video localization and speech dubbing.",
+    "tags": ["Whisper", "PyTorch", "NLP"]
+  },
+  {
+    "category": "Medical Diagnostics",
+    "title": "COVID-19 Diagnostic Classifier",
+    "description": "Deep learning classifier identifying COVID-19 pathology from clinical chest scans.",
+    "tags": ["CNN", "PyTorch", "Medical AI"]
+  }
+]

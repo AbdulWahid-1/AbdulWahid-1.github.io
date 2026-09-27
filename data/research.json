@@ -1,0 +1,22 @@
+{
+  "metrics": [
+    { "value": "5", "label": "Total Publication" }
+  ],
+  "scholarUrl": "https://orcid.org/0000-0002-0740-4812",
+  "publications": [
+    {
+      "year": "2025",
+      "title": "NeuralDub Pro: A Paradigm Shift in Edge Computing and Autonomous Video Localization Abstract & The Engineering Philosophy",
+      "authors": "Abdul Wahid",
+      "venue": "Independent Research",
+      "volume": "Working Paper"
+    },
+    {
+      "year": "2026",
+      "title": "Deep Learning for Arbitrary Stock Forecasting",
+      "authors": "Abdul Wahid",
+      "venue": "MS Thesis",
+      "volume": "Working Paper"
+    }
+  ]
+}
