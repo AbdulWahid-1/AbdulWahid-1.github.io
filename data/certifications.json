@@ -24,6 +24,13 @@
     "image": "assets/certs/PMU1.jpg",
     "link": "https://www.udemy.com/certificate/UC-d0db202c-a10d-427a-a658-e8883cfb8a36/"
   },
+
+  {
+    "title": "Deep Learning with Tensorflow",
+    "category": ["Artificial Intelligence", "Deep Learning"],
+    "image": "assets/certs/DLT-IBM.jpg",
+    "link": "https://courses.cognitiveclass.ai/certificates/99c9644af5ab432fa0b4a7fd0b465395"
+  },
   {
     "title": "Leading People and Teams- University of MICHIGAN",
     "category": "Leadership",

@@ -1,0 +1,23 @@
+[
+  {
+    "course": "MSc Artificial Intelligence & its Applications",
+    "institution": "University of Essex",
+    "location": "Colchester, United kingdom",
+    "start": "October 2022",
+    "end": "October 2023"
+  },
+  {
+    "course": "BS Computer Science",
+    "institution": "University of Management & Technology",
+    "location": "Lahore, Pakistan",
+    "start": "September 2017",
+    "end": "September 2021"
+  },
+  {
+    "course": "Intermediate in Computer Science",
+    "institution": "Punjab Group of Colleges",
+    "location": "Lahore, Pakistan",
+    "start": "May 2015",
+    "end": "May 2017"
+  }
+]

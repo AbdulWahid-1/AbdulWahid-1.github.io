@@ -285,7 +285,7 @@ async function renderCertifications() {
   }
 
   const rawCats = [...new Set(certs.flatMap((c) => Array.isArray(c.category) ? c.category : [c.category]))];
-  const customOrder = ["Project Management", "Product Management", "Leadership"];
+  const customOrder = ["Artificial Intelligence", "Deep Learning", "Machine Learning", "Project Management", "Data Analysis"];
   
   const cats = rawCats.sort((a, b) => {
     const posA = customOrder.indexOf(a) === -1 ? 999 : customOrder.indexOf(a);
@@ -584,12 +584,50 @@ function initScrollAnimations() {
   });
 }
 
+async function renderEducation() {
+  const wrap = document.getElementById("educationTimeline");
+  let items;
+  try {
+    items = await loadJSON("data/education.json");
+  } catch (e) {
+    wrap.textContent = "Could not load education.json";
+    return;
+  }
+  items.forEach((item) => {
+    const node = el("div", { class: "timeline-item" });
+    node.appendChild(el("div", { class: "timeline-period" }, [text(`${item.start} - ${item.end}`)]));
+    node.appendChild(el("div", { class: "timeline-role" }, [text(item.course)]));
+    node.appendChild(el("div", { class: "timeline-org" }, [text(`${item.institution}${item.location ? " • " + item.location : ""}`)]));
+    wrap.appendChild(node);
+  });
+}
+
+function initMobileNav() {
+  const toggle = document.getElementById("navToggle");
+  const nav = document.getElementById("primaryNav");
+  if (!toggle || !nav) return;
+
+  toggle.addEventListener("click", () => {
+    const isOpen = nav.classList.toggle("is-open");
+    toggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+  });
+
+  nav.querySelectorAll("a").forEach((link) => {
+    link.addEventListener("click", () => {
+      nav.classList.remove("is-open");
+      toggle.setAttribute("aria-expanded", "false");
+    });
+  });
+}
+
 (async function init() {
+  initMobileNav();
   const profile = await renderProfile();
   
   try {
     await Promise.all([
       renderSkills(),
+      renderEducation(),
       renderExperience(),
       renderResearch(profile),
       renderProjects(),
